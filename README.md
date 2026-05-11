@@ -61,11 +61,3 @@ This repository contains the implementation of an automated resume screening, se
 * Significant reduction in manual resume validation and parsing.
 * Real-time semantic ranking ensures accurate candidate-job fit.
 * HR can fetch top candidates in minutes instead of hours of manual review.
-
-## Contributing
-
-Contributions are welcome! Please create a branch, implement changes, and submit a pull request for review.
-
-## License
-
-This project is licensed under MIT License.

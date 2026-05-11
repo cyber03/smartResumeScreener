@@ -1,4 +1,4 @@
-# amazonQcodathon
+# smartResumeScreener
 it contains the code files and openApi schema for creating a bedrock agent 
 # Resume Screening & Candidate Ranking System
 

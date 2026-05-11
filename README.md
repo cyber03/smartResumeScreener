@@ -17,6 +17,9 @@ This repository contains the implementation of an automated resume screening, se
 
 ## Architecture
 
+<img width="1600" height="685" alt="flowDiagram" src="https://github.com/user-attachments/assets/cfc79aac-69f9-4804-9c47-783dd8f9eef9" />
+
+
 * **S3 Buckets:** Resume uploads, processed JSON storage, invalid resumes, and job descriptions.
 * **Lambda Functions:**
 
